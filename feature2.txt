@@ -2,7 +2,7 @@
 aaaaa
 正确代码段B
 bbbbb
-错误代码段C
+正确代码段C
 ccccc
 正确代码段D
 ddddd
